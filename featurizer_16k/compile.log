@@ -1,0 +1,1 @@
+/Users/maniflames/Documents/Development/cmgt/robot/experiments/ELL/build/bin/compile -imap featurizer_16k.ell -cfn Predict -cmn mfcc --bitcode --target pi3 -od featurizer_16k --fuseLinearOps True --optimizeReorderDataNodes True --swig --blas true --optimize true

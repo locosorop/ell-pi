@@ -1,0 +1,1 @@
+/usr/local/opt/llvm@6/bin/opt classifier_16k/classifier_16k.bc -o classifier_16k/classifier_16k.opt.bc -O3

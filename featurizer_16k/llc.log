@@ -1,0 +1,1 @@
+/usr/local/opt/llvm@6/bin/llc featurizer_16k/featurizer_16k.opt.bc -o featurizer_16k/featurizer_16k.o -O3 -filetype=obj -mtriple=armv7-linux-gnueabihf -mcpu=cortex-a53 -relocation-model=pic
